@@ -13,6 +13,7 @@ const Home = () => {
                 <div className="do">Download</div>
                 <div className="su">Sign up</div>
                 <div className="li">Log in</div>
+                <div className="pi">navin</div>
 
             </div>
             <div className="container1">
