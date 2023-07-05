@@ -1,0 +1,52 @@
+.lipg {
+    justify-content: center;
+    display: flex;
+    padding-top: 125px;
+}
+
+.frm {
+    justify-content: center;
+    background-color: azure;
+    width: 380px;
+    height: 400px;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+#email {
+    width: 350px;
+    height: 30px;
+}
+
+#pass {
+    width: 350px;
+    height: 30px;
+}
+
+button {
+    border: none;
+    width: 350px;
+    height: 40px;
+    background-color: rgb(0, 113, 243);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.fp {
+    text-align: center;
+}
+
+.da {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
